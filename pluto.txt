@@ -1,0 +1,6 @@
+cat pluto.txt
+You hear about Pluto? That's messed up
+This is some text!
+This will break it 
+Pluto's moon is almost the same size as it
+and now it's fixed

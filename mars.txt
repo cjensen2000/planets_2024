@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Did you hear about Pluto? That's messed up. 
 How do astronauts ensure a party happens? They
 The changes in this file are astronomical!
+=======
+>>>>>>> 338fd0bf941d9e66078b7fec22bc2153cee72ff5
